@@ -1,0 +1,5 @@
+What happened to https://gen1-wistymath.github.io/ ? (also known as gen-wistymath.github.io)
+
+The servers were down, and we basically couldn't do anything.
+But after the servers were back up, it wouldn't let us input the code because there was an error.
+So we had to update the code, and decided its new name.
